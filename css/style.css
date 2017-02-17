@@ -9,3 +9,25 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
 }
+
+
+/* main styles */
+
+/* header styles */
+header {
+	background: #222;
+	color: #FFF;
+	padding: 20px 30px;
+}
+
+/* logo */
+header #logo {
+	color: #FFF;
+	text-decoration: none;
+}
+header #logo img {
+	width: 50px;
+	border-radius: 3px;
+	margin-right: 8px;
+	vertical-align: middle;
+}
